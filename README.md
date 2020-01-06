@@ -62,17 +62,6 @@ Feedback and suggestions are also very welcome.
 This plugin is under the [Apache 2.0 license](http://www.apache.org/licenses/LICENSE-2.0.html).
 Copyright 2013-2019, Opher Vishnia.
 
-aaaaa
-V6.0.0开始完成
-V6.0.0测试完成
-Vtestoo3333
-
-
-111
-222
-333
-444
-555
-666
+1
 
 
